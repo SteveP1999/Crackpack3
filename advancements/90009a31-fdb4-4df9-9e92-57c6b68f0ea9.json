@@ -1,0 +1,1424 @@
+{
+  "erebus:exploration/entomology": {
+    "criteria": {
+      "in_erebus": "2021-12-08 17:38:17 +0100",
+      "kill_dragonfly": "2021-12-08 17:39:50 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/mine_diamond": {
+    "criteria": {
+      "diamond": "2021-12-06 02:21:55 +0100"
+    },
+    "done": true
+  },
+  "triumph:crackpack3/info/silicon": {
+    "criteria": {
+      "location": "2021-12-06 01:19:55 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:drives": {
+    "criteria": {
+      "disk_drive_in_inventory": "2021-12-15 01:49:59 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/smelt_iron": {
+    "criteria": {
+      "iron": "2021-12-06 02:21:01 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2021-12-06 01:19:57 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/end/find_end_city": {
+    "criteria": {
+      "in_city": "2021-12-11 15:43:45 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:energy/2_energy_conduit_enhanced": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_enhanced": "2021-12-11 13:57:33 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "kill_mob": "2021-12-16 15:15:27 +0100"
+    },
+    "done": false
+  },
+  "triumph:crackpack3/flight": {
+    "criteria": {
+      "location": "2021-12-06 01:19:55 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-12-06 03:30:10 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:binding": {
+    "criteria": {
+      "cutting_tool_in_inventory": "2021-12-13 18:49:21 +0100"
+    },
+    "done": true
+  },
+  "erebus:exploration/find_beetles": {
+    "criteria": {
+      "dmg_beetle": "2021-12-11 13:51:34 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-12-11 15:36:22 +0100"
+    },
+    "done": true
+  },
+  "erebus:agriculture/root": {
+    "criteria": {
+      "flowers": "2021-12-11 14:51:18 +0100"
+    },
+    "done": true
+  },
+  "thebetweenlands:fighter/chopping_boy": {
+    "criteria": {
+      "killed_a_mob_bone": "2021-12-06 02:52:13 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/alloy/1_alloy_smelter_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_alloy_smelter": "2021-12-07 18:06:15 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:wireless_items": {
+    "criteria": {
+      "wireless_grid_in_inventory": "2021-12-15 23:53:33 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/rocket_t1": {
+    "criteria": {
+      "rocket_crafted_56": "2021-12-17 18:36:42 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/trade": {
+    "criteria": {
+      "traded": "2021-12-07 18:27:53 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-12-11 15:34:39 +0100"
+    },
+    "done": true
+  },
+  "erebus:exploration/kill_all": {
+    "criteria": {
+      "kill_black_widow": "2021-12-10 20:26:10 +0100",
+      "kill_bot_fly": "2021-12-10 20:35:03 +0100",
+      "kill_mosquito": "2021-12-08 17:44:43 +0100",
+      "kill_beetle": "2021-12-11 13:51:35 +0100",
+      "kill_glow_worm": "2021-12-11 14:51:32 +0100",
+      "kill_tarantula": "2021-12-11 13:53:48 +0100",
+      "kill_fly": "2021-12-10 20:30:08 +0100",
+      "kill_lava_web_spider": "2021-12-10 20:24:23 +0100",
+      "kill_jumping_spider": "2021-12-11 14:30:23 +0100",
+      "kill_dragonfly": "2021-12-08 17:39:50 +0100",
+      "kill_chameleon_tick": "2021-12-10 20:26:40 +0100",
+      "kill_solifuge_small": "2021-12-15 01:41:07 +0100",
+      "kill_fire_ant": "2021-12-10 20:25:39 +0100",
+      "kill_wasp": "2021-12-11 14:31:36 +0100",
+      "kill_solifuge": "2021-12-15 01:41:04 +0100"
+    },
+    "done": false
+  },
+  "refinedstorage:upgrading": {
+    "criteria": {
+      "upgrade_in_inventory": "2021-12-15 23:56:16 +0100"
+    },
+    "done": true
+  },
+  "erebus:exploration/poison_sac": {
+    "criteria": {
+      "sac_get": "2021-12-10 20:26:11 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2021-12-06 02:21:08 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/root": {
+    "criteria": {
+      "crafting_table": "2021-12-06 01:21:26 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:item/1_item_conduit": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit": "2021-12-06 04:51:34 +0100"
+    },
+    "done": true
+  },
+  "rats:rats/plague_cure": {
+    "criteria": {
+      "plague_leech": "2021-12-07 18:28:27 +0100"
+    },
+    "done": true
+  },
+  "rftools:builder": {
+    "criteria": {
+      "placed_builder": "2021-12-15 14:38:40 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/general_biomes": {
+    "criteria": {
+      "1": "2021-12-16 15:14:52 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/basic_wafer": {
+    "criteria": {
+      "compressor": "2021-12-17 16:22:41 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/1_sagmill_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_sag_mill": "2021-12-08 16:54:15 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:start/1_binder_composite": {
+    "criteria": {
+      "inv_changed-enderio:binder_composite": "2021-12-06 04:50:48 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:apprentice": {
+    "criteria": {
+      "fire": "2021-12-07 19:15:32 +0100"
+    },
+    "done": true
+  },
+  "thebetweenlands:adventurer/root": {
+    "criteria": {
+      "talisman": "2021-12-11 16:30:16 +0100"
+    },
+    "done": true
+  },
+  "triumph:crackpack3/info/dimensional_shard": {
+    "criteria": {
+      "location": "2021-12-06 01:19:55 +0100"
+    },
+    "done": true
+  },
+  "triumph:crackpack3/root": {
+    "criteria": {
+      "location": "2021-12-06 01:19:55 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2021-12-15 23:54:47 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/dark_forest": {
+    "criteria": {
+      "0": "2021-12-16 17:55:52 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/compressor": {
+    "criteria": {
+      "compressor": "2021-12-17 16:24:52 +0100"
+    },
+    "done": true
+  },
+  "erebus:exploration/arborist": {
+    "criteria": {
+      "cypress": "2021-12-11 13:50:16 +0100"
+    },
+    "done": false
+  },
+  "enderiomachines:basics/sagmill/9_white": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-12-15 02:37:17 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "dark_log": "2021-12-16 15:58:23 +0100",
+      "dark_planks": "2021-12-16 17:56:23 +0100"
+    },
+    "done": false
+  },
+  "twilightforest:alt/biomes/dense_twilight_forest": {
+    "criteria": {
+      "discover": "2021-12-16 15:15:17 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:root": {
+    "criteria": {
+      "inv_changed-enderio:gravel": "2021-12-06 03:48:17 +0100",
+      "inv_changed-enderio:clay": "2021-12-06 04:40:24 +0100",
+      "inv_changed-enderio:sand": "2021-12-06 03:42:36 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/rocket_workbench": {
+    "criteria": {
+      "rocket_workbench": "2021-12-17 17:43:29 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2021-12-07 19:21:32 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2021-12-06 01:19:57 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2021-12-07 17:54:55 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/refinery": {
+    "criteria": {
+      "refinery": "2021-12-17 18:40:11 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_items": {
+    "criteria": {
+      "storage_disk_in_inventory": "2021-12-15 02:05:52 +0100"
+    },
+    "done": true
+  },
+  "thebetweenlands:fighter/serious_business": {
+    "criteria": {
+      "bone_sword": "2021-12-08 15:59:40 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/end/root": {
+    "criteria": {
+      "entered_end": "2021-12-11 15:34:39 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/scrolls": {
+    "criteria": {
+      "criteria_0": "2021-12-08 15:19:59 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2021-12-06 01:24:10 +0100"
+    },
+    "done": true
+  },
+  "rats:rats/plague": {
+    "criteria": {
+      "all_effects": "2021-12-08 15:17:53 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_forest": {
+    "criteria": {
+      "discover": "2021-12-16 15:15:40 +0100"
+    },
+    "done": true
+  },
+  "erebus:exploration/antivenom": {
+    "criteria": {
+      "bucket": "2021-12-08 17:44:49 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:craft_t3_altar": {
+    "criteria": {
+      "altar_craft_t3_altar": "2021-12-16 16:22:33 +0100"
+    },
+    "done": true
+  },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2021-12-11 15:48:42 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2021-12-15 01:45:56 +0100"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2021-12-17 21:16:26 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/oak_savannah": {
+    "criteria": {
+      "discover": "2021-12-16 15:17:48 +0100"
+    },
+    "done": true
+  },
+  "rftools:specialores": {
+    "criteria": {
+      "find_ores": "2021-12-08 17:28:58 +0100"
+    },
+    "done": true
+  },
+  "erebus:exploration/stung": {
+    "criteria": {
+      "wasp": "2021-12-11 14:31:07 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/animals": {
+    "criteria": {
+      "3": "2021-12-16 15:15:27 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2021-12-06 01:40:37 +0100"
+    },
+    "done": true
+  },
+  "rats:rats/plaguedoctor": {
+    "criteria": {
+      "trig": "2021-12-07 18:26:09 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-12-06 03:54:01 +0100"
+    },
+    "done": true
+  },
+  "erebus:agriculture/farm_complete": {
+    "criteria": {
+      "flowers": "2021-12-11 14:51:18 +0100"
+    },
+    "done": false
+  },
+  "galacticraftcore:galacticraft/oxygen_gear": {
+    "criteria": {
+      "heavy_tank": "2021-12-17 20:34:01 +0100",
+      "oxygen_gear": "2021-12-17 20:00:53 +0100",
+      "oxygen_mask": "2021-12-17 19:59:11 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_enhanced2": "2021-12-11 13:57:33 +0100",
+      "inv_changed-enderio:liquid_conduit2": "2021-12-15 14:24:54 +0100",
+      "inv_changed-enderio:power_conduit2": "2021-12-07 17:48:31 +0100",
+      "inv_changed-enderio:item_conduit2": "2021-12-06 04:51:34 +0100"
+    },
+    "done": false
+  },
+  "triumph:vanilla/end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2021-12-11 15:38:17 +0100"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2021-12-06 01:19:57 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:all_artefacts": {
+    "criteria": {
+      "ring_earth_biome": "2021-12-16 18:49:09 +0100",
+      "amulet_auto_shield": "2021-12-17 00:25:44 +0100"
+    },
+    "done": false
+  },
+  "rats:rats/root": {
+    "criteria": {
+      "tick": "2021-12-06 01:19:57 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/7_black": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-12-15 02:39:39 +0100"
+    },
+    "done": true
+  },
+  "silentgear:hammer": {
+    "criteria": {
+      "get_item": "2021-12-15 23:02:43 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/create_space_station": {
+    "criteria": {
+      "create_space_station": "2021-12-17 20:57:32 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-12-06 01:26:12 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2021-12-15 01:49:24 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/arcane_workbench": {
+    "criteria": {
+      "criteria_0": "2021-12-06 02:39:12 +0100"
+    },
+    "done": true
+  },
+  "enderio:gears/g1_wooden_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-12-11 14:19:25 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/tome_of_arcana": {
+    "criteria": {
+      "criteria_0": "2021-12-08 15:19:30 +0100"
+    },
+    "done": true
+  },
+  "colossalchests:base/wood": {
+    "criteria": {
+      "criteria_0": "2021-12-18 02:22:59 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/circuit_fabricator": {
+    "criteria": {
+      "circuit_fabricator": "2021-12-17 16:09:53 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/alloy/2_energetic_alloy_get": {
+    "criteria": {
+      "inv_changed-enderio:item_energetic_alloy": "2021-12-11 13:55:54 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oil": {
+    "criteria": {
+      "in_oil": "2021-12-17 18:52:29 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/a_powder_coating": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-12-15 02:44:49 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/knightmetal_armor_set": {
+    "criteria": {
+      "boots": "2021-12-15 01:19:24 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/launch_rocket": {
+    "criteria": {
+      "launched_rocket": "2021-12-17 20:40:55 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:artefact": {
+    "criteria": {
+      "ring_earth_biome": "2021-12-16 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2021-12-16 15:14:31 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/ironwood_armor_set": {
+    "criteria": {
+      "chestplate": "2021-12-16 18:33:25 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/6_coal": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-12-07 18:07:15 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:craft_t2_altar": {
+    "criteria": {
+      "altar_craft_t2_altar": "2021-12-16 15:50:56 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2021-12-11 16:21:17 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2021-12-08 15:17:33 +0100"
+    },
+    "done": true
+  },
+  "rats:rats/rat_trap": {
+    "criteria": {
+      "iron_pickaxe": "2021-12-08 15:56:00 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:exporting": {
+    "criteria": {
+      "exporter_in_inventory": "2021-12-16 01:18:12 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "raven": "2021-12-16 15:15:27 +0100"
+    },
+    "done": true
+  },
+  "erebus:exploration/jade_ore": {
+    "criteria": {
+      "collect_jade": "2021-12-10 20:13:45 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/end/elytra": {
+    "criteria": {
+      "elytra": "2021-12-11 15:56:06 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/raven": {
+    "criteria": {
+      "slay": "2021-12-16 15:15:27 +0100"
+    },
+    "done": true
+  },
+  "triumph:crackpack3/erebus": {
+    "criteria": {
+      "entered_nether": "2021-12-08 17:38:16 +0100"
+    },
+    "done": true
+  },
+  "triumph:crackpack3/dimensions": {
+    "criteria": {
+      "location": "2021-12-06 01:19:55 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/root": {
+    "criteria": {
+      "entered_nether": "2021-12-08 17:03:29 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/naga_courtyard": {
+    "criteria": {
+      "discover": "2021-12-16 15:15:52 +0100"
+    },
+    "done": true
+  },
+  "triumph:crackpack3/end": {
+    "criteria": {
+      "entered_nether": "2021-12-11 15:34:39 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-12-07 17:56:31 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/goal/1_all_simple_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_sag_mill": "2021-12-08 16:54:15 +0100",
+      "inv_changed-enderio:block_simple_alloy_smelter": "2021-12-07 18:06:15 +0100"
+    },
+    "done": false
+  },
+  "triumph:vanilla/adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2021-12-06 03:51:04 +0100",
+      "frozen_river": "2021-12-11 17:02:31 +0100",
+      "forest": "2021-12-06 02:45:02 +0100",
+      "mesa_rock": "2021-12-16 00:31:31 +0100",
+      "swampland": "2021-12-16 17:55:18 +0100",
+      "deep_ocean": "2021-12-16 00:49:59 +0100",
+      "beaches": "2021-12-06 03:24:53 +0100",
+      "extreme_hills_with_trees": "2021-12-06 04:01:06 +0100",
+      "forest_hills": "2021-12-08 15:30:27 +0100",
+      "plains": "2021-12-11 16:16:32 +0100",
+      "savanna": "2021-12-13 18:44:28 +0100",
+      "savanna_rock": "2021-12-16 00:29:19 +0100",
+      "ice_mountains": "2021-12-16 00:25:05 +0100",
+      "taiga": "2021-12-16 00:36:28 +0100",
+      "redwood_taiga_hills": "2021-12-16 17:57:40 +0100",
+      "ocean": "2021-12-06 01:24:23 +0100",
+      "extreme_hills": "2021-12-06 02:08:31 +0100",
+      "roofed_forest": "2021-12-11 16:16:30 +0100",
+      "cold_beach": "2021-12-11 16:16:45 +0100",
+      "river": "2021-12-06 02:42:07 +0100",
+      "desert": "2021-12-16 00:28:24 +0100",
+      "stone_beach": "2021-12-06 02:08:07 +0100"
+    },
+    "done": false
+  },
+  "triumph:vanilla/recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2021-12-06 01:41:27 +0100"
+    },
+    "done": true
+  },
+  "erebus:exploration/root": {
+    "criteria": {
+      "in_ere": "2021-12-08 17:38:17 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "divination": "2021-12-18 03:33:01 +0100",
+      "spark_bomb": "2021-12-18 03:38:00 +0100",
+      "frost_ray": "2021-12-18 03:53:15 +0100",
+      "homing_spark": "2021-12-18 03:53:20 +0100",
+      "freeze": "2021-12-18 03:27:20 +0100",
+      "conjure_bow": "2021-12-18 03:41:07 +0100",
+      "muffle": "2021-12-18 03:53:53 +0100",
+      "thunderbolt": "2021-12-18 03:34:27 +0100",
+      "summon_zombie": "2021-12-07 19:30:40 +0100",
+      "ward": "2021-12-18 03:53:36 +0100",
+      "dart": "2021-12-18 03:35:06 +0100",
+      "arc": "2021-12-18 03:28:08 +0100",
+      "bubble": "2021-12-07 19:28:49 +0100",
+      "leap": "2021-12-18 03:32:14 +0100",
+      "fireball": "2021-12-18 03:34:51 +0100",
+      "mine": "2021-12-18 03:30:59 +0100",
+      "fire_sigil": "2021-12-18 03:35:28 +0100",
+      "conjure_pickaxe": "2021-12-18 03:43:05 +0100",
+      "heal_ally": "2021-12-18 03:30:03 +0100",
+      "ignite": "2021-12-18 03:44:08 +0100",
+      "invigorating_presence": "2021-12-07 19:29:34 +0100",
+      "lightning_ray": "2021-12-18 03:45:57 +0100",
+      "whirlwind": "2021-12-18 03:39:16 +0100",
+      "snare": "2021-12-18 03:45:47 +0100",
+      "magic_missile": "2021-12-18 03:27:33 +0100",
+      "evade": "2021-12-18 03:36:24 +0100",
+      "firebolt": "2021-12-18 03:44:50 +0100",
+      "ice_statue": "2021-12-18 03:44:15 +0100",
+      "smoke_bomb": "2021-12-18 03:43:33 +0100",
+      "ice_shard": "2021-12-18 03:53:18 +0100",
+      "banish": "2021-12-18 03:32:23 +0100",
+      "heal": "2021-12-18 03:38:21 +0100",
+      "frost_sigil": "2021-12-18 03:37:51 +0100"
+    },
+    "done": false
+  },
+  "ebwizardry:handbook/elements": {
+    "criteria": {
+      "healing": "2021-12-11 15:48:29 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2021-12-06 02:25:18 +0100"
+    },
+    "done": true
+  },
+  "colossalchests:root": {
+    "criteria": {
+      "criteria_0": "2021-12-06 01:21:02 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/vension": {
+    "criteria": {
+      "raw": "2021-12-16 15:16:00 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/thornlands": {
+    "criteria": {
+      "discover": "2021-12-16 17:55:37 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/snowy_forest": {
+    "criteria": {
+      "discover": "2021-12-17 18:07:42 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2021-12-15 14:28:00 +0100"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2021-12-17 21:16:26 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-12-08 17:03:29 +0100"
+    },
+    "done": true
+  },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-12-07 17:31:39 +0100"
+    },
+    "done": true
+  },
+  "enderio:gears/g4_energized_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-12-15 03:00:22 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:root": {
+    "criteria": {
+      "inv_changed-enderio:block_machine_chassis_root": "2021-12-15 02:45:46 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:monitoring": {
+    "criteria": {
+      "crafting_monitor_in_inventory": "2021-12-16 01:26:55 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/mine_stone": {
+    "criteria": {
+      "get_stone": "2021-12-06 01:21:39 +0100"
+    },
+    "done": true
+  },
+  "rats:rats/rat_cage": {
+    "criteria": {
+      "iron_pickaxe": "2021-12-07 18:30:01 +0100"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2021-12-17 21:16:26 +0100"
+    },
+    "done": true
+  },
+  "erebus:exploration/exo_set": {
+    "criteria": {
+      "shield": "2021-12-16 18:55:51 +0100",
+      "chest": "2021-12-16 18:55:24 +0100"
+    },
+    "done": false
+  },
+  "refinedstorage:viewing_items": {
+    "criteria": {
+      "grid_in_inventory": "2021-12-15 01:49:21 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:visit_shrine": {
+    "criteria": {
+      "criteria_0": "2021-12-17 00:25:27 +0100"
+    },
+    "done": true
+  },
+  "silentgear:crafting_station": {
+    "criteria": {
+      "get_item": "2021-12-15 23:02:05 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-12-06 02:35:26 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:defeat_evil_wizard": {
+    "criteria": {
+      "criteria_0": "2021-12-11 16:21:26 +0100"
+    },
+    "done": true
+  },
+  "rftools:storepower": {
+    "criteria": {
+      "placed_powercell": "2021-12-17 16:06:06 +0100"
+    },
+    "done": true
+  },
+  "rats:rats/rat_upgrade_basic": {
+    "criteria": {
+      "rat_upgrade_basic": "2021-12-15 02:08:13 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2021-12-06 02:25:18 +0100"
+    },
+    "done": true
+  },
+  "silentgear:kachink1": {
+    "criteria": {
+      "repair": "2021-12-16 16:02:38 +0100"
+    },
+    "done": true
+  },
+  "silentgear:kachink2": {
+    "criteria": {
+      "repair": "2021-12-15 23:02:53 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/firefly_forest": {
+    "criteria": {
+      "discover": "2021-12-16 15:14:52 +0100"
+    },
+    "done": true
+  },
+  "erebus:exploration/traveller": {
+    "criteria": {
+      "fungal": "2021-12-08 17:48:49 +0100",
+      "petrified": "2021-12-08 17:50:11 +0100",
+      "elysian": "2021-12-10 20:33:22 +0100",
+      "savannah": "2021-12-11 13:44:59 +0100",
+      "desert": "2021-12-08 17:49:48 +0100",
+      "swamp": "2021-12-08 17:38:17 +0100"
+    },
+    "done": false
+  },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2021-12-07 17:48:31 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/knightmetal_tool_set": {
+    "criteria": {
+      "shield": "2021-12-15 01:19:24 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/brew_potion": {
+    "criteria": {
+      "potion": "2021-12-11 15:45:17 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:spell_failure": {
+    "criteria": {
+      "criteria_0": "2021-12-07 19:28:43 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/mushroom_forest": {
+    "criteria": {
+      "discover": "2021-12-16 15:19:39 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/rocket_fuel": {
+    "criteria": {
+      "fuel_bucket": "2021-12-17 19:55:21 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/advanced_wafer": {
+    "criteria": {
+      "compressor": "2021-12-17 16:22:18 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-12-11 15:42:56 +0100"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2021-12-06 01:21:26 +0100"
+    },
+    "done": true
+  },
+  "triumph:crackpack3/nether": {
+    "criteria": {
+      "entered_nether": "2021-12-08 17:03:29 +0100"
+    },
+    "done": true
+  },
+  "triumph:crackpack3/info/aluminum": {
+    "criteria": {
+      "location": "2021-12-06 01:19:55 +0100"
+    },
+    "done": true
+  },
+  "enderio:gears/g2_stone_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-12-07 18:04:57 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_lake": {
+    "criteria": {
+      "discover": "2021-12-16 18:01:11 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_venison": "2021-12-16 15:41:58 +0100"
+    },
+    "done": false
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2021-12-06 01:23:22 +0100"
+    },
+    "done": true
+  },
+  "silentgear:repair_from_broken": {
+    "criteria": {
+      "repair": "2021-12-17 18:11:50 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/fill_all_tanks": {
+    "criteria": {
+      "heavy_tank": "2021-12-17 20:34:01 +0100"
+    },
+    "done": false
+  },
+  "enderiomachines:basics/sagmill/4_brown": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-12-15 02:52:00 +0100"
+    },
+    "done": true
+  },
+  "rats:rats/cheese": {
+    "criteria": {
+      "iron_pickaxe": "2021-12-07 18:29:38 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/moon": {
+    "criteria": {
+      "traveled_to_moon": "2021-12-17 20:42:20 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:start/2_conduit_binder": {
+    "criteria": {
+      "inv_changed-enderio:conduit_binder": "2021-12-06 04:51:07 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:managing_patterns": {
+    "criteria": {
+      "crafter_manager_in_inventory": "2021-12-16 01:08:35 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/deer": {
+    "criteria": {
+      "slay": "2021-12-16 15:15:59 +0100"
+    },
+    "done": true
+  },
+  "astralsorcery:rock_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2021-12-16 15:40:04 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/fill_tank": {
+    "criteria": {
+      "heavy_tank": "2021-12-17 20:34:01 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-12-08 17:19:28 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/root": {
+    "criteria": {
+      "killed_something": "2021-12-06 01:26:45 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2021-12-07 19:28:49 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/any": {
+    "criteria": {
+      "3": "2021-12-16 15:16:00 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/armors": {
+    "criteria": {
+      "4": "2021-12-15 01:19:24 +0100"
+    },
+    "done": true
+  },
+  "thebetweenlands:fighter/shield_wall": {
+    "criteria": {
+      "bone_shield": "2021-12-16 18:18:16 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_collector": {
+    "criteria": {
+      "oxygen_collector": "2021-12-17 20:05:11 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/8_blue": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-12-15 02:44:45 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/3_sagmill_bushes": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-12-15 02:39:37 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2021-12-07 19:45:44 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/5_green": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-12-15 02:44:04 +0100"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2021-12-15 14:24:54 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2021-12-06 02:28:57 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:importing": {
+    "criteria": {
+      "importer_in_inventory": "2021-12-16 01:18:00 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/alloy/machine_chassis_get": {
+    "criteria": {
+      "inv_changed-enderio:block_machine_chassis": "2021-12-15 02:45:46 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-12-06 02:06:02 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/fuel_loader": {
+    "criteria": {
+      "fuel_loader": "2021-12-17 18:39:39 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_compressor": {
+    "criteria": {
+      "oxygen_compressor": "2021-12-17 20:16:44 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie_pigman": "2021-12-16 19:13:41 +0100",
+      "stray": "2021-12-16 18:18:03 +0100",
+      "shulker": "2021-12-11 15:43:46 +0100",
+      "wither_skeleton": "2021-12-07 19:14:10 +0100",
+      "zombie_villager": "2021-12-07 18:53:20 +0100",
+      "magma_cube": "2021-12-08 17:23:31 +0100",
+      "slime": "2021-12-06 04:10:59 +0100",
+      "polar_bear": "2021-12-11 16:26:04 +0100",
+      "vindicator": "2021-12-11 16:20:37 +0100",
+      "skeleton": "2021-12-06 02:27:52 +0100",
+      "husk": "2021-12-08 16:46:20 +0100",
+      "blaze": "2021-12-08 17:19:27 +0100",
+      "evoker": "2021-12-08 15:16:58 +0100",
+      "cave_spider": "2021-12-06 02:30:54 +0100",
+      "silverfish": "2021-12-06 02:46:07 +0100",
+      "zombie": "2021-12-06 01:40:37 +0100",
+      "witch": "2021-12-06 01:41:26 +0100",
+      "spider": "2021-12-06 02:28:07 +0100",
+      "ghast": "2021-12-13 19:10:09 +0100",
+      "creeper": "2021-12-08 15:27:46 +0100",
+      "enderman": "2021-12-11 15:39:31 +0100"
+    },
+    "done": false
+  },
+  "refinedstorage:autocrafting": {
+    "criteria": {
+      "crafter_in_inventory": "2021-12-16 01:00:33 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2021-12-11 15:48:23 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2021-12-06 02:21:21 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/enchanted_forest": {
+    "criteria": {
+      "discover": "2021-12-16 18:03:03 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2021-12-16 19:07:56 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/crystal_flowers": {
+    "criteria": {
+      "criteria_0": "2021-12-06 03:26:23 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/quest_grove": {
+    "criteria": {
+      "discover": "2021-12-17 18:06:52 +0100"
+    },
+    "done": true
+  },
+  "triumph:crackpack3/info/platinum": {
+    "criteria": {
+      "location": "2021-12-06 01:19:55 +0100"
+    },
+    "done": true
+  },
+  "triumph:crackpack3/beneath": {
+    "criteria": {
+      "entered_nether": "2021-12-07 18:34:20 +0100"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/magical_creatures": {
+    "criteria": {
+      "summon_zombie": "2021-12-07 19:30:40 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-12-08 17:06:17 +0100"
+    },
+    "done": true
+  },
+  "triumph:crackpack3/info/nickel": {
+    "criteria": {
+      "location": "2021-12-06 01:19:55 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:wireless_monitoring": {
+    "criteria": {
+      "wireless_crafting_monitor_in_inventory": "2021-12-17 00:40:03 +0100"
+    },
+    "done": true
+  },
+  "enderio:root": {
+    "criteria": {
+      "location": "2021-12-06 02:34:15 +0100"
+    },
+    "done": true
+  },
+  "triumph:crackpack3/info/sticky": {
+    "criteria": {
+      "location": "2021-12-06 01:19:55 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-12-08 17:19:28 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:no_cables_required": {
+    "criteria": {
+      "network_transmitter_receiver_card_in_inventory": "2021-12-18 03:05:09 +0100"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2021-12-06 01:19:57 +0100"
+    },
+    "done": true
+  },
+  "rftools:root": {
+    "criteria": {
+      "has_machine_frame": "2021-12-06 03:54:08 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/tools": {
+    "criteria": {
+      "4": "2021-12-15 01:19:24 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:wireless": {
+    "criteria": {
+      "wireless_transmitter_in_inventory": "2021-12-15 23:54:15 +0100"
+    },
+    "done": true
+  },
+  "enderio:start/2_simple_chassis_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-12-07 18:06:12 +0100"
+    },
+    "done": true
+  },
+  "rats:rats/contaminated_food": {
+    "criteria": {
+      "contaminated_food": "2021-12-07 20:14:20 +0100"
+    },
+    "done": true
+  },
+  "rats:rats/piper": {
+    "criteria": {
+      "killed_by_piper": "2021-12-07 18:45:33 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-12-08 17:19:28 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2021-12-15 23:06:17 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2021-12-06 03:44:54 +0100"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/2_sagmill_flowers": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2021-12-15 02:39:37 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-12-15 02:19:03 +0100"
+    },
+    "done": true
+  },
+  "triumph:vanilla/husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2021-12-06 02:47:35 +0100",
+      "cooked_beef": "2021-12-06 02:47:39 +0100",
+      "apple": "2021-12-06 01:26:12 +0100",
+      "cooked_cod": "2021-12-06 02:06:44 +0100",
+      "raw_salmon": "2021-12-06 01:27:01 +0100",
+      "bread": "2021-12-06 01:45:16 +0100",
+      "golden_apple": "2021-12-16 19:18:27 +0100",
+      "cookie": "2021-12-07 17:42:13 +0100",
+      "raw_cod": "2021-12-06 01:42:20 +0100",
+      "cooked_chicken": "2021-12-06 02:48:00 +0100",
+      "carrot": "2021-12-06 03:10:11 +0100"
+    },
+    "done": false
+  }
+}
